@@ -129,18 +129,13 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed font-medical">
-                Founded in 1998, our pathology laboratory has been at the forefront of medical diagnostics, 
-                serving our community with dedication and excellence. What started as a small local lab has 
-                grown into a comprehensive diagnostic center trusted by healthcare providers and patients alike.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur saepe accusantium modi architecto. Voluptates recusandae, iusto eaque dolor doloribus, saepe aspernatur neque labore necessitatibus distinctio molestias assumenda, accusantium incidunt suscipit culpa autem itaque maxime voluptate! Molestias modi repudiandae a quas ab consequuntur, recusandae doloribus sapiente culpa, quae soluta adipisci est.
               </p>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed font-medical">
-                Our journey has been marked by continuous innovation, investment in cutting-edge technology, 
-                and an unwavering commitment to patient care. We believe that accurate diagnostics are the 
-                foundation of effective healthcare, and we take pride in our role in the medical community.
+               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique recusandae minima fuga voluptate nihil, minus deserunt totam aperiam ab atque quam. Laborum, saepe quis sunt incidunt error velit excepturi deleniti.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed font-medical">
-                Today, we continue to expand our services while maintaining the personal touch and attention 
-                to detail that has made us a trusted name in pathology services.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium repudiandae aspernatur dolorum cupiditate autem rerum quisquam assumenda et eius asperiores.
               </p>
             </motion.div>
             <motion.div
@@ -258,30 +253,30 @@ const About = () => {
             {[
               {
                 icon: "👨‍⚕️",
-                name: "Dr. Sarah Johnson",
+                name: "Dr. Brijesh Srivastava",
                 role: "Senior Pathologist",
                 qualification: "MD, FCAP",
-                age: "42",
+                age: "32",
                 specialization: "Hematopathology",
-                experience: "15+ years",
-                education: "Harvard Medical School"
+                experience: "10+ years",
+                education: " Medical School"
               },
               {
                 icon: "👩‍⚕️",
-                name: "Dr. Michael Chen",
+                name: "Dr. Akanasha Srivastava",
                 role: "Clinical Pathologist",
                 qualification: "MD, PhD",
-                age: "38",
+                age: "31",
                 specialization: "Clinical Chemistry",
                 experience: "12+ years",
-                education: "Stanford University"
+                education: " University"
               },
               {
                 icon: "👨‍⚕️",
-                name: "Dr. Emily Rodriguez",
+                name: "Dr. Abhishek Srivastava",
                 role: "Cytopathologist",
                 qualification: "MD, FRCPath",
-                age: "45",
+                age: "35",
                 specialization: "Cytopathology",
                 experience: "18+ years",
                 education: "Johns Hopkins"

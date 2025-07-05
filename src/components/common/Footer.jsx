@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="container section-padding">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-2xl font-bold text-blue-400 mb-4 font-display">JAS Diagnosis</h3>
+            <h3 className="text-3xl font-bold text-blue-400 mb-4 font-cursive">JAS Diagnosis</h3>
             <p className="text-gray-300 leading-relaxed font-modern">
               Providing accurate diagnostic services with cutting-edge technology and compassionate care for over 25 years.
             </p>
@@ -41,17 +41,20 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4 font-display">Contact Info</h4>
             <div className="space-y-2 text-gray-300 font-medical">
-              <p>123 Medical Center Dr</p>
-              <p>Healthcare City, HC 12345</p>
-              <p>Phone: +1 (555) 123-4567</p>
-              <p>Email: info@pathologylab.com</p>
+              <p>JAS Diagnosis </p>
+              <p>Near Pandeypur Crossing</p>
+              <p>Varanasi, Uttar Pradesh 221002</p>
+              <p>Phone: +91 7052145589</p>
+              <p>WhatsApp: +91 7052145589</p>
+              <p>Email: info@jaspathology.com</p>
+              <p>Emergency: +91 8002145589</p>
             </div>
           </div>
         </div>
         
         <div className="mt-8 pt-8 text-center">
           <p className="text-gray-400 font-modern">
-            © 2024 JAS Diagnosis. All rights reserved.
+            © 2025 JAS Diagnosis. All rights reserved.
           </p>
         </div>
       </div>

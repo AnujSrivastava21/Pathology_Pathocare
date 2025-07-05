@@ -43,25 +43,25 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      details: "123 Medical Center Dr, Suite 100, Healthcare City, HC 12345",
+      details: "JAS Diagnosis, Near Pandeypur Crossing, Varanasi, Uttar Pradesh 221002",
       action: "Get Directions"
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: "+1 (555) 123-4567",
+      details: "+91 7052145589",
       action: "Call Now"
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: "info@pathologylab.com",
+      details: "info@jaspathology.com",
       action: "Send Email"
     },
     {
       icon: Clock,
       title: "Business Hours",
-      details: "Mon-Fri: 7:00 AM - 7:00 PM, Sat: 8:00 AM - 4:00 PM",
+      details: "Mon-Sat: 7:00 AM - 8:00 PM, Sun: 8:00 AM - 2:00 PM",
       action: "View Schedule"
     }
   ]
@@ -338,7 +338,7 @@ const Contact = () => {
                 <div className="text-center">
                   <MapPin className="w-16 h-16 text-gray-400 mx-auto mb-4" />
                   <p className="text-gray-600">Interactive Map</p>
-                  <p className="text-sm text-gray-500">123 Medical Center Dr, Healthcare City</p>
+                  <p className="text-sm text-gray-500">JAS Diagnosis, Near Pandeypur Crossing, Varanasi</p>
                 </div>
               </div>
 
